@@ -60,7 +60,8 @@ body {
     font-size: 2rem;
     text-align: center;
     font-family: 'Lato', sans-serif;
-    font-weight: 500;
+    font-weight: 600;
+    -webkit-text-stroke: #59331D 1px; 
     max-width: 90%; /* Prevent text overflow */
     position: absolute;
     top: 50%;
